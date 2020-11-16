@@ -1,0 +1,10 @@
+{
+  "ruby.rubocop.onSave": true,
+  "editor.formatOnSaveTimeout": 5000,
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.erb": "erb"
+  },
+  "ruby.rubocop.executePath": "/Users/jonathanperry/.rvm/gems/ruby-2.7.2/bin/rubocop",
+  "ruby.format": "rubocop"
+}
